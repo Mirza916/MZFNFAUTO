@@ -1,0 +1,13 @@
+{
+  "title": "MZ Auto - Always On",
+  "description": "Always-on scored autoplay for official FNF 0.8.7. No AUTO button or F6 shortcut. Manual note inputs are ignored on desktop and Android.",
+  "contributors": [
+    {
+      "name": "ChatGPT",
+      "role": "Programming"
+    }
+  ],
+  "api_version": "0.8.7",
+  "mod_version": "2.2.0",
+  "license": "MIT"
+}

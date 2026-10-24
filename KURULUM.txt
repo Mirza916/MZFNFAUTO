@@ -1,0 +1,37 @@
+MZ AUTO 2.2.0 - SÜREKLİ AÇIK
+
+Resmî FNF / V-Slice 0.8.7 için. PC ve Android desteklenir.
+
+KURULUM
+1. Oyunu tamamen kapat.
+2. ZIP içindeki MZ_Auto_Mobile klasörüyle eski mod klasörünü değiştir.
+3. PC'de klasörü Funkin.exe yanındaki mods klasörüne koy:
+   mods/MZ_Auto_Mobile/_polymod_meta.json
+   mods/MZ_Auto_Mobile/scripts/MZAutoMobile.hxc
+4. Oyunu yeniden aç ve bir şarkı başlat.
+
+KULLANIM
+- Otomatik oynama sürekli açıktır.
+- AUTO düğmesi ve F6 kısayolu kaldırıldı.
+- Nota alanına dokunma, fare tıklaması ve elle nota tuşlarına basma
+  otomatik oynatmayı kapatmaz. Elle gönderilen nota girişleri değerlendirilmez;
+  bu girişler skoru, komboyu ve canı değiştirmez.
+- Otomatik notaların puanını oyunun normal skor sistemi hesaplar.
+- Bot Play Enabled yazısı gösterilmez.
+- Oyunun normal duraklatma ve menü kontrolleri kullanılabilir.
+- Modu kapatmak için oyunu kapatıp mod klasörünü mods dışına taşı.
+
+UYUMLULUK
+Klasör adındaki Mobile eski addır; aynı paket PC'de de kullanılır.
+İndirilen resmî oyunun 0.8.7 sürümü hedeflenir. Tarayıcı oyunu ve Psych Engine
+hedeflenmez. Diğer sürümlerin giriş sistemi farklı olabilir.
+Normal dört yönlü notalar ve uzun notalar hedeflenir. Özel kaçınma/saldırı
+mekanikleri desteklenmez; düşük öncelikli notalar atlanır.
+Chart Editor değiştirilmez. Başka otomatik oynama modlarıyla birlikte kullanma.
+
+KONTROL
+HScript sözdizimi ve otomatik/elle giriş ayrımı simülasyonda kontrol edildi.
+Gerçek FNF oyunu içinde veya cihazda çalıştırılarak test edilmedi.
+
+KAYNAK
+https://github.com/FunkinCrew/Funkin/tree/v0.8.7
